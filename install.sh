@@ -3,7 +3,7 @@
 FRAPPE_PATH="https://github.com/frappe/frappe"
 FRAPPE_BRANCH="version-15"
 CUSTOM_IMAGE="ghcr.io/krishne35/frappe_docker/erpimage"
-CUSTOM_TAG="15.0.3"
+CUSTOM_TAG="15.0.4"
 APPS_FILE="/root/frappe_docker/apps.json"
 CONTAINERFILE="/root/frappe_docker/images/layered/Containerfile"
 PUSH_IMAGE=true  # Set to false to skip docker push
